@@ -1,0 +1,10 @@
+{
+  "name": "FacetML - Facial Expression AI & Dataset Studio",
+  "description": "Capture live camera feeds or insert images to run comprehensive facial expression analysis with Gemini AI, extract FACS Action Units, and generate high-yield augmented datasets for machine learning training.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
